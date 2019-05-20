@@ -1,10 +1,9 @@
 # Cheat-Sheets
 Multiple cheat-sheets on topics like
 
-*Artificial Intelligence,
-
-*Data science
-*Machine Learning
+*Artificial Intelligence
+*Data science 
+*Machine Learning 
 *Deep learning
 *Python Language
 *R language 
