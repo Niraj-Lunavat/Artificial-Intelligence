@@ -3,8 +3,6 @@
 # Cheat-Sheets
 Multiple cheat-sheets on topics like
 
-[PYTHON](Python/PythonForDataScience.md)
-
 Artificial Intelligence
 
 Data science 
