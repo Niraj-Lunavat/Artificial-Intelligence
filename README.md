@@ -3,7 +3,7 @@
 # Cheat-Sheets
 Multiple cheat-sheets on topics like
 
-[PYTHON](Niraj-Lunavat/Cheat-Sheets/blob/master/Python/PythonForDataScience.pdf)
+[PYTHON](Cheat-Sheets/blob/master/Python/PythonForDataScience.pdf)
 
 Artificial Intelligence
 
