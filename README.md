@@ -3,11 +3,11 @@
 # Cheat-Sheets
 Multiple cheat-sheets on topics like
 
-**[Artificial Intelligence](https://github.com/Niraj-Lunavat/Cheat-Sheets/tree/master/Artificial%20Intelligence)
-**[Data science] 
-**[Machine Learning]
-**[Deep learning]
-**[Python Language]
+[Artificial Intelligence](https://github.com/Niraj-Lunavat/Cheat-Sheets/tree/master/Artificial%20Intelligence)                     
+[Data science](https://github.com/Niraj-Lunavat/Cheat-Sheets/tree/master/Data%20Science)
+[Machine Learning](https://github.com/Niraj-Lunavat/Cheat-Sheets/tree/master/Machine%20Learning)
+[Deep learning](https://github.com/Niraj-Lunavat/Cheat-Sheets/tree/master/Deep%20Learning)
+*[Python Language](https://github.com/Niraj-Lunavat/Cheat-Sheets/tree/master/Python)
 **[R language ]
 **[Mathes for AI]
 **[Data Science]
