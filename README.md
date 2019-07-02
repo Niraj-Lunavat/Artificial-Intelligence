@@ -14,7 +14,7 @@ Multiple cheat-sheets on topics like
 *  [ Matlab](https://github.com/Niraj-Lunavat/Cheat-Sheets/tree/master/Matlab)                                                                                                                           
 *  [ SQL](https://github.com/Niraj-Lunavat/Cheat-Sheets/tree/master/SQL) and many more
 
-# Awesome Deep Learning [![Awesome]
+# Super Deep Learning
 ## Table of Contents
 
 * **[Free Online Books](#free-online-books)**  
