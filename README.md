@@ -11,8 +11,8 @@ Python Language
 R language 
 Mathes for AI
 Data Science
-[Matlab]
-[SQL and many more]
+Matlab
+SQL and many more
 
 # Awesome Deep Learning [![Awesome]
 ## Table of Contents
