@@ -8,11 +8,10 @@ Multiple cheat-sheets on topics like
 [3. Machine Learning](https://github.com/Niraj-Lunavat/Cheat-Sheets/tree/master/Machine%20Learning)                                         
 [4. Deep learning](https://github.com/Niraj-Lunavat/Cheat-Sheets/tree/master/Deep%20Learning)         
 [5. Python Language](https://github.com/Niraj-Lunavat/Cheat-Sheets/tree/master/Python)
-[6. R language ]()
-**[Mathes for AI]
-**[Data Science]
-**[Matlab]
-**[SQL] and many more
+[6. R language ](https://github.com/Niraj-Lunavat/Cheat-Sheets/tree/master/R%20Language)
+[7. Mathes for AI](https://github.com/Niraj-Lunavat/Cheat-Sheets/tree/master/Mathes%20for%20AI)
+[8. Matlab](https://github.com/Niraj-Lunavat/Cheat-Sheets/tree/master/Matlab)
+[9. SQL](https://github.com/Niraj-Lunavat/Cheat-Sheets/tree/master/SQL) and many more
 
 # Awesome Deep Learning [![Awesome]
 ## Table of Contents
