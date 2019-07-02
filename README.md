@@ -3,7 +3,7 @@
 # Cheat-Sheets
 Multiple cheat-sheets on topics like
 
-**[Artificial Intelligence]
+**[Artificial Intelligence](https://github.com/Niraj-Lunavat/Cheat-Sheets/tree/master/Artificial%20Intelligence)
 **[Data science] 
 **[Machine Learning]
 **[Deep learning]
