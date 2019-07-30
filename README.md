@@ -1,4 +1,4 @@
-Awesome Deep Learning with AI Cheat-Sheets(+100 Cheat-sheets), Free Online Books, Courses, Videos and Lectures, Papers, Tutorials, Researchers, Websites, Datasets, Conferences, Frameworks, Tools
+Superb Deep Learning with AI Cheat-Sheets(+100 Cheat-sheets), Free Online Books, Courses, Videos and Lectures, Papers, Tutorials, Researchers, Websites, Datasets, Conferences, Frameworks, Tools
          
    Created by [Niraj Lunavat](https://www.linkedin.com/in/niraj-lunavat-41581699/)
    
@@ -16,7 +16,7 @@ Multiple cheat-sheets on topics like
 *  [ Matlab](https://github.com/Niraj-Lunavat/Cheat-Sheets/tree/master/Matlab)                                                                                                                           
 *  [ SQL](https://github.com/Niraj-Lunavat/Cheat-Sheets/tree/master/SQL) and many more
 
-# Super Deep Learning
+# Superb Deep Learning
 ## Table of Contents
 
 * **[Free Online Books](#free-online-books)**  
