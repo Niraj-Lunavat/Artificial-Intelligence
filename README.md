@@ -558,4 +558,4 @@ Multiple cheat-sheets on topics like
 
 -----
 ### Contributing
-Have anything in mind that you think is awesome and would fit in this list? Feel free to send a [pull request] (https://github.com/Niraj-Lunavat/Cheat-Sheets/pulls).
+Have anything in mind that you think is awesome and would fit in this list? Feel free to send a [pull request](https://github.com/Niraj-Lunavat/Cheat-Sheets/pulls).
