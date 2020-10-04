@@ -558,5 +558,24 @@ Multiple cheat-sheets on topics like
 34. [Awesome Graph Embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding) - Curated list of articles related to deep learning scientific research on graph structured data
 
 -----
+
+###SOME USEFUL LINK FOR FREE COURSES
+(PLEASE ENROLL FAST FOR THIS COURSES)
+Automate the Boring Stuff with Python Programming: https://bit.ly/3jqnJHk
+Network Ethical Hacking for Beginners (Kali 2020, Hands-on): https://bit.ly/33jlpfA
+Create Awesome WatchOS Apps Using SwiftUI: https://bit.ly/30r25uY
+Python Bootcamp 2020 Build 15 working Applications and Games: https://bit.ly/3nevH8O
+Milestones in Python 3.8 with exciting new features: https://bit.ly/33kQqj1
+Fundamentals of Data Analysis Expression DAX: https://bit.ly/2Gh6z0c
+Data Visualization in Python with Covid-19 Analysis Project: https://bit.ly/3jnLJul
+Complete Google Certified Educator Level 1 Masterclass: https://bit.ly/36p8lHm
+Microsoft Power BI: Latest 2020 Beginner to Expert Modules: https://bit.ly/3l7QEAo
+Get Started With NodeJS : For Beginners 2020: https://bit.ly/3jpxF3N
+Python And Flask Framework Complete Course For Beginners: https://bit.ly/3ijPPlX
+Free Cybersecurity Essentials Certification Course: https://bit.ly/3iwISOR
+Whatsapp stock market bot with Python, Twilio & MarketStack: https://bit.ly/3l58ync
+THESE ALL LINK IS APPROVED BY UDEMY.
+SO DON'T WORRY IT WILL WORK.
+HAVE A NICE DAY.
 ### Contributing
 Have anything in mind that you think is awesome and would fit in this list? Feel free to send a [pull request](https://github.com/Niraj-Lunavat/Cheat-Sheets/pulls).
