@@ -513,6 +513,7 @@ Multiple cheat-sheets on topics like
 50.  [TensorForce - A TensorFlow library for applied reinforcement learning](https://github.com/reinforceio/tensorforce)
 51.  [Coach - Reinforcement Learning Coach by Intel® AI Lab](https://github.com/NervanaSystems/coach)
 52.  [albumentations - A fast and framework agnostic image augmentation library](https://github.com/albu/albumentations)
+53.  [Karate Club - A library for unsupervised machine learning on graphs](https://github.com/benedekrozemberczki/karateclub)
 
 ### Tools
 
@@ -555,7 +556,12 @@ Multiple cheat-sheets on topics like
 31. [Siraj Raval's Deep Learning tutorials](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
 32. [Dockerface](https://github.com/natanielruiz/dockerface) - Easy to install and use deep learning Faster R-CNN face detection for images and video in a docker container.
 33. [Awesome Deep Learning Music](https://github.com/ybayle/awesome-deep-learning-music) - Curated list of articles related to deep learning scientific research applied to music
-34. [Awesome Graph Embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding) - Curated list of articles related to deep learning scientific research on graph structured data
+34. [Awesome Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification) - Curated list of articles related to deep learning scientific research on graph structured data
+35. [Awesome Community Detection](https://github.com/benedekrozemberczki/awesome-graph-classification) - Curated list of articles related to scientific research on graph clustering
+36. [Awesome Fraud Detection](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers) - Curated list of articles related to fraud detection research
+37. [Awesome Classification Trees](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) - Curated list of articles related to classification and regression tree research
+38. [Awesome Gradient Boosting](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) - Curated list of articles related to gradient boosting research
+39. [Awesome Monte Carlo Tree Search](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers) - Curated list of articles related to Monte Carlo tree research
 
 -----
 ### Contributing
