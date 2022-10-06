@@ -555,6 +555,7 @@ _You can also find the most cited deep learning papers from [here](https://githu
 31. [Dockerface](https://github.com/natanielruiz/dockerface) - Easy to install and use deep learning Faster R-CNN face detection for images and video in a docker container.
 32. [Awesome Deep Learning Music](https://github.com/ybayle/awesome-deep-learning-music) - Curated list of articles related to deep learning scientific research applied to music
 33. [Awesome Graph Embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding) - Curated list of articles related to deep learning scientific research on graph structured data
+34. [Explore AI Libraries & Projects](https://kandi.openweaver.com/explore/artificial-intelligence) - Explore a curated list of AI popular & new libraries, top authors, trending project kits, discussions, tutorials & learning resources on kandi.
 
 ---
 
