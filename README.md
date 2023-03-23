@@ -90,6 +90,7 @@ Multiple cheat-sheets on topics like
 26. [Practical Deep Learning For Coders](http://course.fast.ai/) by Jeremy Howard - Fast.ai
 27. [Introduction to Deep Learning](http://deeplearning.cs.cmu.edu/) by Prof. Bhiksha Raj (2017)
 28. [AI for Everyone](https://www.deeplearning.ai/ai-for-everyone/) by Andrew Ng (2019)
+29. [Complete ML and Data Science Course](https://www.scaler.com/data-science-course/) by Scaler (2022)
 
 ### Videos and Lectures
 
