@@ -17,6 +17,7 @@ Multiple cheat-sheets on topics like
 - [ Matlab](https://github.com/Niraj-Lunavat/Cheat-Sheets/tree/master/Matlab)
 - [ Neural Network](https://github.com/Niraj-Lunavat/Artificial-Intelligence/tree/master/Neural%20Network)
 - [ SQL](https://github.com/Niraj-Lunavat/Cheat-Sheets/tree/master/SQL) and many more
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for multi-agent orchestration. Free learning resource. MIT licensed.
 
 # Superb Deep Learning
 
