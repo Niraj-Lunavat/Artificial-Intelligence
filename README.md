@@ -185,6 +185,7 @@ _You can also find the most cited deep learning papers from [here](https://githu
 21. [Deep Learning for Search](https://www.manning.com/books/deep-learning-for-search)
 22. [Keras Tutorial: Content Based Image Retrieval Using a Convolutional Denoising Autoencoder](https://blog.sicara.com/keras-tutorial-content-based-image-retrieval-convolutional-denoising-autoencoder-dc91450cc511)
 23. [Pytorch Tutorial by Yunjey Choi](https://github.com/yunjey/pytorch-tutorial)
+24. [TutorialSearch](https://tutorialsearch.io/browse/ai-machine-learning/artificial-intelligence) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 
 ## Researchers
 
