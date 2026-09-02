@@ -318,6 +318,8 @@ _You can also find the most cited deep learning papers from [here](https://githu
 26. [Guide to Machine Learning](http://yerevann.com/a-guide-to-deep-learning/)
 27. [Deep Learning for Beginners](https://spandan-madan.github.io/DeepLearningProject/)
 
+28. [ModelBenchmark](https://modelbenchmark.io) - Specs, prices, benchmarks and lifecycle for 2,000+ AI models.
+
 ### Datasets
 
 1.  [MNIST](http://yann.lecun.com/exdb/mnist/) Handwritten digits
