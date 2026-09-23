@@ -17,6 +17,7 @@ Multiple cheat-sheets on topics like
 - [ Matlab](https://github.com/Niraj-Lunavat/Cheat-Sheets/tree/master/Matlab)
 - [ Neural Network](https://github.com/Niraj-Lunavat/Artificial-Intelligence/tree/master/Neural%20Network)
 - [ SQL](https://github.com/Niraj-Lunavat/Cheat-Sheets/tree/master/SQL) and many more
+- [MagicKit](https://kaketiti.github.io) - Free AI tools collection - 66+ tools, zero registration, zero API key required
 
 # Superb Deep Learning
 
