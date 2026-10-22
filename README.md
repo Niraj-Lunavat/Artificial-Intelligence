@@ -17,6 +17,7 @@ Multiple cheat-sheets on topics like
 - [ Matlab](https://github.com/Niraj-Lunavat/Cheat-Sheets/tree/master/Matlab)
 - [ Neural Network](https://github.com/Niraj-Lunavat/Artificial-Intelligence/tree/master/Neural%20Network)
 - [ SQL](https://github.com/Niraj-Lunavat/Cheat-Sheets/tree/master/SQL) and many more
+- [PDFnoted](https://pdfnoted.com) — Browser-first PDF workspace with AI watermark removal, annotation review, and three-jurisdiction compliance checking (CN/US/EU)
 
 # Superb Deep Learning
 
